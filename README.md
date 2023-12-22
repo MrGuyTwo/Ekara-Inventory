@@ -13,7 +13,7 @@
 
 ![screen](screenshot/List_account.png)
 
-![screen](screenshot/result.png)
+![screen](screenshot/result_XLS.png)
 
 ## Requirements
 
