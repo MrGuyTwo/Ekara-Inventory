@@ -16,7 +16,7 @@ Account and Password Ekara with 'Administrator' privilege.
 
 ## Download
 
-[github-download]: [https://github.com/MrGuyTwo/hello-world](https://github.com/MrGuyTwo/Ekara-Inventory/releases)
+[github-download]: (https://github.com/MrGuyTwo/Ekara-Inventory/releases)
  - [`Ekara-Inventory`][github-download]
 
 ## The main function
