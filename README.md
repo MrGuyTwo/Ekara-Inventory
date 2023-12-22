@@ -19,15 +19,14 @@ For this, the script uses the Rest Ekara API.
 
 ## Requirements
 
-Powershell|version
+-|version
 --|:--:
-PSVersion|5.1.19041.3803
-PSCompatibleVersions|{1.0, 2.0, 3.0, 4.0...}
-BuildVersion|10.0.19041.3803
-CLRVersion|4.0.30319.42000
+Ekara plateform|>=23.12
+PowerShell|>=5
+.NET|>=4
+Microsoft Excel|>=2013
 
-
-Account and password Ekara
+(Account and password Ekara)
 
 ## Download
 
