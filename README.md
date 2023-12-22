@@ -5,7 +5,7 @@
 <a href="https://api.ekara.ip-label.net/"><img src="screenshot/cropped-ekara_by_ip-label_full_2.webp"> 
 
 ## Description
-This script [Powershell](https://learn.microsoft.com/powershell/scripting/overview) allows you to take inventory of the different elements of the [Ekara](https://ekara.ip-label.net/) environment and generates an Excel file.
+This [Powershell](https://learn.microsoft.com/powershell/scripting/overview) script allows you to take inventory of the different elements of the [Ekara](https://ekara.ip-label.net/) environment and generates an Excel file.
 
 For this, the script uses the Rest Ekara API.
 
