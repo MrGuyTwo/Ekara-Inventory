@@ -2,17 +2,30 @@
 
 ![Windows](screenshot/badge.svg)
 
-![win](screenshot/cropped-ekara_by_ip-label_full_2.webp)  [Ekara](https://ekara.ip-label.net)
-
+<a href="https://api.ekara.ip-label.net/"><img src="screenshot/cropped-ekara_by_ip-label_full_2.webp"> 
 ## Description
 
 ....
 
+## Screens
+
+![screen](screenshot/Logon.png)
+
+![screen](screenshot/List_account.png)
+
+![screen](screenshot/result.png)
+
 ## Requirements
 
-Powershell >= 7.
+Powershell|version
+--|:--:
+PSVersion|5.1.19041.3803
+PSCompatibleVersions|{1.0, 2.0, 3.0, 4.0...}
+BuildVersion|10.0.19041.3803
+CLRVersion|4.0.30319.42000
 
-Account and Password Ekara with 'Administrator' privilege.
+
+Account and password Ekara
 
 ## Download
 
