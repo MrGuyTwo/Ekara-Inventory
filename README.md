@@ -46,6 +46,9 @@ Methods called :
 - script-api/scripts
 - adm-api/applications
 - adm-api/workspaces
+- adm-api/webhooks
+- adm-api/apikeys
+- adm-api/identityproviders
 - adm-api/zones
 - adm-api/sites
 - adm-api/actions
