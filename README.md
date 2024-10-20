@@ -26,7 +26,7 @@ PowerShell|>=5
 .NET|>=4
 Microsoft Excel|>=2013
 
-(Account and password Ekara)
+(Account / password or API-KEY Ekara)
 
 ## Download
 
